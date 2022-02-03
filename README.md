@@ -1,3 +1,3 @@
 #Software Engineering Methods
 ***
-Initial commit
+![workflow](https://github.com/rbncvc/sem/actions/workflows/main.yml/badge.svg)
